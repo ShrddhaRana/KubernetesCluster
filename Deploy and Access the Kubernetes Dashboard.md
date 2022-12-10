@@ -9,6 +9,7 @@ i) On master
 ```
 wget https://raw.githubusercontent.com/kubernetes/dashboard/v2.6.1/aio/deploy/recommended.yaml
 ```
+Note: If the yaml is not available I have provided it in this repo, copy fromt there
 
 ii) Edit the yaml file for making it accessible to NI internal
 
