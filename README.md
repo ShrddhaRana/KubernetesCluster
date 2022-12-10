@@ -3,7 +3,7 @@
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 
-In this document we will be covering the creation of cluster, setting up a web UI and hosting services on Kubernetes etc.
+Learn how to create Kubernetes cluster, setting up a web UI and hosting services on Kubernetes etc.
 
 
 1. [Creating Kubernetes cluster using kubeadm](https://github.com/ShrddhaRana/KubernetesCluster/blob/main/Creating%20Kubernetes%20Cluster%20using%20kubeadm.md)
